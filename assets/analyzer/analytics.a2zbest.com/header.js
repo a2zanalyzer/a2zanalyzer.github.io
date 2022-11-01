@@ -1,7 +1,9 @@
 
-<!-- Google Analytics -->
+
 
 document.write(`
+
+<!-- Google Analytics -->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HBFZCC5PBY"></script>
