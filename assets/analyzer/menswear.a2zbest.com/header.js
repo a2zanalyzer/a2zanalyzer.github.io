@@ -1,1 +1,17 @@
-header.js
+
+
+document.write(`
+
+<!-- Google analytics -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LNPG1MYHCY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LNPG1MYHCY');
+</script>
+
+`);
